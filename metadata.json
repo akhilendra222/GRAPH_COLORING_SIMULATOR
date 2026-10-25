@@ -1,0 +1,8 @@
+{
+  "name": "Graph Coloring Simulator",
+  "description": "Interactive visualizer, complexity analyzer, and algorithm comparator for graph coloring algorithms in Design and Analysis of Algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
